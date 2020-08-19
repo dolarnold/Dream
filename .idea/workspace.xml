@@ -17,6 +17,7 @@
       <change afterPath="$PROJECT_DIR$/../Accounts/.idea/php.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../HrmSystem/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../HrmSystem/.idea/jsLinters/jshint.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,6 +57,7 @@
       <option name="presentableId" value="Default" />
       <updated>1597829495151</updated>
       <workItem from="1597829496339" duration="628000" />
+      <workItem from="1597832147095" duration="10766000" />
     </task>
     <servers />
   </component>
@@ -63,6 +65,10 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="930" y="200" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1597838209133">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state x="930" y="200" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1600.900@0.0.1600.900" timestamp="1597838209133" />
     <state x="580" y="205" key="FileChooserDialogImpl" timestamp="1597832138967">
       <screen x="0" y="0" width="1600" height="900" />
     </state>
