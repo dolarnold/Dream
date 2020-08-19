@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e8961be8-80f0-4e30-917f-fc5fed054aad" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../ConEmu.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ConEmu.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ConEmu64.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ConEmu64.map" afterDir="false" />
+      <change afterPath="$USER_HOME$/AppData/Local/Microsoft/Edge/User Data/BrowserMetrics-spare.pma" afterDir="false" />
+      <change afterPath="$USER_HOME$/AppData/Local/Packages/Microsoft.Windows.Cortana_cw5n1h2txyewy/AC/INetCache/4AE4IFDC/trans[3].gif" afterDir="false" />
+      <change afterPath="$USER_HOME$/AppData/Local/Temp/ConEmu/ConEmuVersion.ini" afterDir="false" />
+      <change afterPath="$USER_HOME$/PhpstormProjects/untitled/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$USER_HOME$/PhpstormProjects/untitled/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/PhpstormProjects/untitled/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/PhpstormProjects/untitled/.idea/untitled.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Users/desktop.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Accounts/.idea/php.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HrmSystem/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HrmSystem/.idea/jsLinters/jshint.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../" />
+  </component>
+  <component name="ProjectId" id="1gJOpcl1teBTLa0ztrWELHfazow" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="preferences.customizations" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e8961be8-80f0-4e30-917f-fc5fed054aad" name="Default Changelist" comment="" />
+      <created>1597829495151</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597829495151</updated>
+      <workItem from="1597829496339" duration="628000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="580" y="205" key="FileChooserDialogImpl" timestamp="1597832138967">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state x="580" y="205" key="FileChooserDialogImpl/0.0.1600.900@0.0.1600.900" timestamp="1597832138967" />
+  </component>
+</project>
